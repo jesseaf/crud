@@ -4,4 +4,4 @@ Utilizando a biblioteca DataTable e o Template administrativo AdminLTE.
 
 novas alterações serão feitas em breve.
 
-você pode conferir este projeto em : jessealves.com.br/crud
+você pode conferir este projeto em : https://www.jessealves.com.br/crud
