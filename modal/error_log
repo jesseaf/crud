@@ -1,0 +1,347 @@
+[20-May-2020 14:22:34 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:22:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:22:37 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:22:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:22:38 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:22:38 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:22:40 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:22:40 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:22:41 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:23:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:23:45 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:23:45 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:23:54 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:23:54 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:23:57 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:23:57 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:23:58 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:23:58 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ' 	
+            jessea30_crud'@'localhost' (using password: YES) in /home2/jessea30/public_html/crud/classes/Conexao.class.php:10
+Stack trace:
+#0 /home2/jessea30/public_html/crud/classes/Conexao.class.php(10): PDO->__construct('mysql:host=loca...', ' \t\n            ...', 'U1lYp,.SShBT', Array)
+#1 /home2/jessea30/public_html/crud/classes/Conexao.class.php(15): Conexao->setConn()
+#2 /home2/jessea30/public_html/crud/classes/CRUD.class.php(7): Conexao->getConn()
+#3 /home2/jessea30/public_html/crud/classes/CRUD.class.php(18): CRUD->prepareExecute('SELECT * FROM t...', Array)
+#4 /home2/jessea30/public_html/crud/modal/usuario.php(8): CRUD->select('*', 'tb_nomes', ' where id=?', Array)
+#5 {main}
+  thrown in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 10
+[20-May-2020 14:24:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:24:47 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:24:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:24:51 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:24:52 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 14:25:02 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 17:06:42 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 17:06:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[20-May-2020 17:37:03 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 12:59:52 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 13:11:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 13:19:39 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 13:20:14 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 13:20:39 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 13:28:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:27:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:29:25 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:29:29 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:30:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:30:40 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:30:43 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:31:18 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:31:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:43:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 14:43:14 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:23:21 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:25:05 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:26:14 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:26:45 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:29 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:41 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:47 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:37:52 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:38:02 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:38:10 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:38:53 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:38:56 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:39:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:41:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:41:24 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:42:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:43:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:46:37 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:53:22 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:53:24 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:53:26 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:53:52 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:54:54 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:54:59 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:56:30 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 19:58:46 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:00:07 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:01:19 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:01:31 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:02:22 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:02:26 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:02:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:03:31 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:03:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:03:43 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:04:19 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:05:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:06:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:07:49 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:08:14 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:08:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:09:22 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:10:46 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:11:09 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:11:14 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:11:34 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:12:48 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:12:57 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:12:59 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:13:19 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:16:16 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:16:28 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:16:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:17:08 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:18:10 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:19:01 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:20:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:22:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:23:09 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:23:14 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:23:17 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:23:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:23:51 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:24:12 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:24:16 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:24:20 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:24:23 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:25:18 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:26:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:26:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:28:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:28:23 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:28:26 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:28:34 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:30:58 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:33:31 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:35:18 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:35:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:35:41 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:35:58 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:36:12 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:36:17 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-May-2020 20:36:20 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 06:59:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 07:00:02 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 08:23:45 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 11:02:07 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 11:02:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 11:02:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 11:11:38 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[22-May-2020 11:31:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 10:15:51 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 10:15:53 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 10:15:57 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:07:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:07:18 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:07:25 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:07:30 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:07:38 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:09:53 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:09:56 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:10:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:10:06 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:11:22 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:11:25 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:11:31 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:11:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:11:39 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:13:08 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:13:13 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:13:23 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:14:10 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:18:58 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:19:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:19:07 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:19:09 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:19:09 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:19:10 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:19:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:22:09 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:22:13 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:22:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:22:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:23:05 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:23:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:23:20 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:23:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:24:04 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:53:39 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:53:41 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:53:46 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:53:47 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:54:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:55:24 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:58:03 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:10 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:16 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:20 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:22 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:26 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:28 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:30 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:34 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:38 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:51 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:54 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 14:59:56 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:06:27 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:06:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:06:34 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:06:37 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:37:13 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:59:05 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 15:59:11 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 16:08:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 16:10:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 16:16:13 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[23-May-2020 16:18:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[24-May-2020 01:53:17 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[24-May-2020 01:53:39 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[25-May-2020 09:51:59 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[25-May-2020 10:05:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[25-May-2020 10:05:46 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-May-2020 14:51:40 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-May-2020 14:51:43 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-May-2020 14:52:59 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-May-2020 14:53:03 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[31-May-2020 11:48:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[31-May-2020 11:50:25 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[31-May-2020 11:50:30 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[11-Jun-2020 22:48:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[11-Jun-2020 22:49:01 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[11-Jun-2020 22:49:05 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[12-Jun-2020 22:12:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[12-Jun-2020 22:17:02 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[12-Jun-2020 22:59:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[12-Jun-2020 22:59:34 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[12-Jun-2020 22:59:37 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[12-Jun-2020 23:19:22 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 12:15:02 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 12:15:28 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 12:15:43 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 12:16:29 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 15:21:24 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 15:21:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 17:28:12 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Jun-2020 17:28:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[14-Jun-2020 01:25:15 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[14-Jun-2020 22:41:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[14-Jun-2020 22:51:53 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Jun-2020 12:05:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Jun-2020 12:07:29 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[16-Jun-2020 14:27:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[16-Jun-2020 14:32:57 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[24-Jun-2020 21:35:05 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:27:13 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:29:39 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:31:00 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:32:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:33:18 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:33:55 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:47:24 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[21-Sep-2020 16:47:31 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-Nov-2020 20:09:32 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-Nov-2020 20:20:10 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[26-Nov-2020 20:28:25 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[07-Dec-2020 00:00:03 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[07-Dec-2020 00:00:17 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[07-Dec-2020 00:00:23 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[07-Dec-2020 00:00:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[07-Dec-2020 00:00:45 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[07-Dec-2020 00:00:50 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:33 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:35 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:38 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:40 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:44 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:47 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:49 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[13-Dec-2020 09:49:53 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[06-Feb-2021 04:24:20 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[06-Feb-2021 04:24:56 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Apr-2021 00:35:23 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Apr-2021 00:35:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Apr-2021 00:35:47 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Apr-2021 19:02:36 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Apr-2021 19:56:05 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[15-Apr-2021 19:56:07 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
+[29-May-2021 23:23:41 America/Fortaleza] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/jessea30/public_html/crud/classes/Conexao.class.php on line 2
