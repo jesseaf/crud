@@ -49,7 +49,7 @@ if($_POST['id'] != NULL){
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <i class="fa fa-user modal-icon"></i>
         <h4 class="modal-title"><?=$titulo;?></h4>
-        <small class="font-bold">Preencha todos os campos. Obs.: campos com (*) s�o de preenchimento obrigat�rios.</small>
+        <small class="font-bold">Preencha todos os campos. Obs.: campos com (*) são de preenchimento obrigatórios.</small>
     </div>
     <form class="form-horizontal" method="post" action="javascript:void(0)">
         <div class="modal-body">
